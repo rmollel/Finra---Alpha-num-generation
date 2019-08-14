@@ -1,0 +1,11 @@
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\bin\Debug\netcoreapp2.1\AlphaNum.deps.json
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\bin\Debug\netcoreapp2.1\AlphaNum.runtimeconfig.json
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\bin\Debug\netcoreapp2.1\AlphaNum.runtimeconfig.dev.json
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\bin\Debug\netcoreapp2.1\AlphaNum.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\bin\Debug\netcoreapp2.1\AlphaNum.pdb
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\obj\Debug\netcoreapp2.1\AlphaNum.csproj.CoreCompileInputs.cache
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\obj\Debug\netcoreapp2.1\AlphaNum.AssemblyInfoInputs.cache
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\obj\Debug\netcoreapp2.1\AlphaNum.AssemblyInfo.cs
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\obj\Debug\netcoreapp2.1\AlphaNum.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\obj\Debug\netcoreapp2.1\AlphaNum.pdb
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNum\AlphaNum\obj\Debug\netcoreapp2.1\AlphaNum.csprojAssemblyReference.cache
